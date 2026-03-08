@@ -1,31 +1,24 @@
-# Claw-work
+# [Side Project Name]
 
-**Status:** Active (side project, evenings/weekends)
-**GitHub:** github.com/Claw-work | Board: Focus Tasks (#3)
+<!-- Replace this with your side project details after running /setup -->
+
+**Status:** Active (evenings/weekends)
+**GitHub:**
 
 ## One-liner
 
-AI agent platform -- manus-style agentic product being built by Shivam solo.
+<!-- What are you building? -->
 
 ## Current State
 
-Auth system done. Security hardened (JWT auth, CORS fix, rate limiting, AWS creds rotated). Frontend auth with login/signup shipped.
+<!-- What's done, what's in progress -->
 
 ## Backlog (priority order)
 
-- Web UI (P0)
-- Playwright automation (P0)
-- Tools system (P0)
-- Skills system (P0)
-- WhatsApp integration (P1)
-- Slack integration (P1)
-- MCP marketplace (P1)
-- Sandbox security (P1)
-- Schedule/Cron (P1)
-- Credit system (P2)
-- Multiagent orchestration (P2)
-- Infrastructure integration (P2)
+- (P0)
+- (P1)
+- (P2)
 
 ## Goal
 
-Ship to early users as soon as Web UI + core Tools/Skills are working.
+<!-- What does "done enough to show users" look like? -->

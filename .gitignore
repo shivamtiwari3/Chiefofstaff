@@ -2,3 +2,7 @@
 CLAUDE.local.md
 .claude/settings.local.json
 node_modules/
+.obsidian/
+
+# Session memory logs (personal, not shared)
+memory/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].md
